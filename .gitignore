@@ -1,0 +1,14 @@
+.idea/
+
+*.sqlite3
+*.db
+
+media/
+
+*.pyc
+__pycache__/
+
+*.log
+
+venv/
+.env
